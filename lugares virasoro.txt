@@ -1,0 +1,17 @@
+lugares por latlng (virasoro)
+
+santigo del estero y arturo illia 
+lat -28.05102611059904
+lng -56.0418487786592
+
+campaña del desierto (vuelta ombu)
+lat -28.048525027214637
+lng -56.00477206680808
+
+mi casa
+lat -28.057201821899298
+lng -56.0190424917164
+
+argentino roca y bompland
+lat -28.04331520533566
+lng -56.018213152656244
